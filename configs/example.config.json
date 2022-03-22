@@ -1,6 +1,6 @@
 {
   "USER_NAME": "your name",
-  "MAIN_TEST_PATH": "/path/to/a/test/folder",
+  "MAIN_TEST_PATH": "./tests",
   "DEVELOPMENT_ENVIRONMENT": true,
   "COMPONENT_SPECIFIC":
   {
