@@ -14,3 +14,5 @@ htmlcov/
 # Python memory_profiler output
 mprofile_*.dat
 azdock_run.log
+
+*.iml
